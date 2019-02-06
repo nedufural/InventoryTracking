@@ -12,34 +12,34 @@
       "name": "ferrous",
       "dosage": "50mg",
       "tablets": "200",
-      "code": "10"
+      "code": "9003327650812"
     },
     {
       "id": 3,
       "name": "viagra",
       "dosage": "300mg",
       "tablets": "100",
-      "code": "30"
+      "code": "9003327650836"
     },
     {
       "id": 4,
       "name": "multivitamin",
       "dosage": "350mg",
       "tablets": "1000",
-      "code": ""
+      "code": "9003327650843"
     },
     {
       "id": 5,
       "name": "agilba",
       "dosage": " 20mg",
       "tablets": "500",
-      "code": "20"
+      "code": "9003327650850"
     },
     {
       "name": "paracetamol",
       "dosage": "25mg",
       "tablets": "50",
-      "code": "5",
+      "code": "9003327650867",
       "id": 6
     }
   ]
