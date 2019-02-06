@@ -1,0 +1,46 @@
+{
+  "products": [
+    {
+      "name": "panadol",
+      "dosage": "250mg",
+      "tablets": "500",
+      "code": "9003327650829",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "ferrous",
+      "dosage": "50mg",
+      "tablets": "200",
+      "code": "10"
+    },
+    {
+      "id": 3,
+      "name": "viagra",
+      "dosage": "300mg",
+      "tablets": "100",
+      "code": "30"
+    },
+    {
+      "id": 4,
+      "name": "multivitamin",
+      "dosage": "350mg",
+      "tablets": "1000",
+      "code": ""
+    },
+    {
+      "id": 5,
+      "name": "agilba",
+      "dosage": " 20mg",
+      "tablets": "500",
+      "code": "20"
+    },
+    {
+      "name": "paracetamol",
+      "dosage": "25mg",
+      "tablets": "50",
+      "code": "5",
+      "id": 6
+    }
+  ]
+}
