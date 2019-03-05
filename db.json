@@ -5,6 +5,7 @@
       "dosage": "250mg",
       "tablets": "500",
       "code": "9003327650829",
+      "image": "https://github.com/nedufural/InventoryTracking/blob/master/assets/4.jpg",
       "id": 1
     },
     {
@@ -12,6 +13,7 @@
       "name": "ferrous",
       "dosage": "50mg",
       "tablets": "200",
+      "image": "https://github.com/nedufural/InventoryTracking/blob/master/assets/1.jpg",
       "code": "9003327650812"
     },
     {
@@ -19,6 +21,7 @@
       "name": "viagra",
       "dosage": "300mg",
       "tablets": "100",
+      "image": "https://github.com/nedufural/InventoryTracking/blob/master/assets/2.jpg",
       "code": "9003327650836"
     },
     {
@@ -26,6 +29,7 @@
       "name": "multivitamin",
       "dosage": "350mg",
       "tablets": "1000",
+      "image": "https://github.com/nedufural/InventoryTracking/blob/master/assets/5.jpg",
       "code": "9003327650843"
     },
     {
@@ -33,6 +37,7 @@
       "name": "agilba",
       "dosage": " 20mg",
       "tablets": "500",
+      "image": "https://github.com/nedufural/InventoryTracking/blob/master/assets/6.jpg",
       "code": "9003327650850"
     },
     {
@@ -40,6 +45,7 @@
       "dosage": "25mg",
       "tablets": "50",
       "code": "9003327650867",
+      "image": "https://github.com/nedufural/InventoryTracking/blob/master/assets/3.jpg",
       "id": 6
     }
   ]
